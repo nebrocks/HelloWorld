@@ -13,4 +13,9 @@ class HelloWorld{
 		
 		System.out.println("Merge sort is completed. ");
 	}
+	
+	public static void quickSort(){
+		
+		System.out.println("Quick sort is completed. ");
+	} 
 }
